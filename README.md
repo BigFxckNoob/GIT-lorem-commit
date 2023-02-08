@@ -1,0 +1,2 @@
+# lorem-commit
+ GIT School
